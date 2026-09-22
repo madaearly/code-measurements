@@ -76,3 +76,57 @@ in files mentioning Jev; the least-starred carries 3,640.
 ```
 
 Needs `git` and Python 3. No API key, no network beyond the clone.
+
+---
+
+# Second list, and a claim about both — 2026-09-22
+
+The same account posted a **different** ten-repo checklist on 21.09 (181,000 views,
+2,193 bookmarks). Zero overlap with the 22.09 list above. `data/both-lists.csv` holds
+all twenty rows, measured the same way.
+
+| repo | ★ | share | Jev in product code |
+|---|---|---|---|
+| itsmostafa/typesafe-mcp | 258 | 100.0% | 7 files |
+| jkudish/jev-mcp | 282 | 100.0% | 3 |
+| browser-use/jev-ultrafast | 17962 | 88.2% | 6 |
+| tamaratran/fast-jev-compaction | 6289 | 76.9% | 7 |
+| ellipsis-dev/blink | 61 | 58.3% | 4 |
+| sharziki/semdecide | 36 | 50.0% | 4 |
+| GhalebDweikat/winnow | 66 | 27.9% | 9 |
+| devagrawal09/jev-review | 544 | 15.8% | 3 |
+| 0xNatoshi/jev-codex-router | 219 | 4.7% | 16 |
+| vercel-labs/json-render | 18085 | 1.2% | 10 |
+
+The star inversion is sharper here than on the first list. `json-render` (18,085★) and
+`jev-ultrafast` (17,962★) carry almost identical star counts and differ by a factor of
+seventy in Jev share — 1.2% against 88.2%. `json-render` is also the one repo across
+both lists whose first commit predates 2026-09 by months: 2026-01-14.
+
+## The claim this answers
+
+On 2026-09-22 a post with 159,890 followers behind it said: *"i've been looking deeper
+into jev 'use-cases' people shared on X and can confirm at least 90% are just larping."*
+
+Across the twenty repos in the two most-shared checklists:
+
+| | |
+|---|---|
+| reference Jev somewhere in source | 20 / 20 |
+| in product code, not only tests or scripts | 19 / 20 |
+| have a test file touching Jev | 13 / 20 |
+| median share of the codebase | 54.1% |
+| over half the codebase | 12 / 20 |
+
+The single exception is `lahfir/agent-desktop`: four files under `scripts/`, nothing in
+what it ships.
+
+**This is not a refutation of that post, and is not offered as one.** Its population is
+use-cases shared on X, most of which are screenshots, and a screenshot cannot be cloned.
+This population is the twenty repos in the two biggest lists — a subset, chosen because
+it is the part of the claim that can be checked at all.
+
+It also separates two readings that the word "larping" merges. *The code does not really
+call Jev* is measurable, and it is 1 in 20. *The use case is a toy* is a different
+statement, is not tested here, and is reasonable to hold: four of the twenty are games
+or demos.
