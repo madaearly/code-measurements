@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """How much of a repository is actually about X?
 
-    python3 howmuch.py owner/repo keyword [keyword ...]
+    ./howmuch owner/repo keyword [keyword ...]
 
 Shallow-clones the repo, reads every source file, and reports what share of the
 code mentions the keyword at all -- split by where those files sit in the tree,

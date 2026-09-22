@@ -9,7 +9,7 @@ This folder measures that, and the measurement runs on any repo and any keyword.
 
 ## What is counted
 
-`howmuch.py owner/repo jev typesafe` shallow-clones a repository, reads every source
+`./howmuch owner/repo jev typesafe` shallow-clones a repository, reads every source
 file, and reports the share that mentions the terms at all — then splits those files by
 where they sit in the tree, because a keyword that appears only under `tests/` or
 `bench/` is not something the repository ships.
@@ -72,7 +72,7 @@ in files mentioning Jev; the least-starred carries 3,640.
 ## Reproduce
 
 ```
-python3 howmuch.py lahfir/agent-desktop jev typesafe
+./howmuch lahfir/agent-desktop jev typesafe
 ```
 
 Needs `git` and Python 3. No API key, no network beyond the clone.
