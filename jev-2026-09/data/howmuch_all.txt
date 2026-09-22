@@ -1,0 +1,60 @@
+
+jexp/neo4jev   terms: jev, typesafe
+  source files        15      mentioning        13    86.7%
+  lines of code     5650      in those        5492    97.2%
+  where          product 5   test 8   bench 0   script/docs 0
+      [product] app/streamlit_app.py  (30)
+
+AkashPriyadarshii/jev-curate   terms: jev, typesafe
+  source files        10      mentioning         8    80.0%
+  lines of code     1500      in those        1233    82.2%
+  where          product 6   test 1   bench 0   script/docs 1
+      [product] src/client.rs  (28)
+
+fhshaik/typesafe-mario   terms: jev, typesafe
+  source files         9      mentioning         7    77.8%
+  lines of code     1778      in those        1061    59.7%
+  where          product 5   test 2   bench 0   script/docs 0
+      [product] src/typesafe_mario/policy.py  (7)
+
+emrickgarrett/OneVOneJev   terms: jev, typesafe
+  source files        21      mentioning        16    76.2%
+  lines of code     3941      in those        3640    92.4%
+  where          product 16   test 0   bench 0   script/docs 0
+      [product] server/src/room.ts  (53)
+
+RomanSlack/jev-drone   terms: jev, typesafe
+  source files        17      mentioning        10    58.8%
+  lines of code     2741      in those        2168    79.1%
+  where          product 10   test 0   bench 0   script/docs 0
+      [product] site/app/page.tsx  (42)
+
+monteduro/killmyidea   terms: jev, typesafe
+  source files        42      mentioning        21    50.0%
+  lines of code     3303      in those        2125    64.3%
+  where          product 17   test 4   bench 0   script/docs 0
+      [product] api/evaluate.ts  (15)
+
+jarrodwatts/jev-trader   terms: jev, typesafe
+  source files        34      mentioning         8    23.5%
+  lines of code     2961      in those         666    22.5%
+  where          product 8   test 0   bench 0   script/docs 0
+      [product] src/model.ts  (9)
+
+qkal/Canny   terms: jev, typesafe
+  source files        52      mentioning         8    15.4%
+  lines of code     4353      in those        1725    39.6%
+  where          product 5   test 3   bench 0   script/docs 0
+      [product] src/jev.ts  (16)
+
+irfndi/prism-liquidity-agent   terms: jev, typesafe
+  source files       368      mentioning         7     1.9%
+  lines of code   129484      in those       19326    14.9%
+  where          product 4   test 0   bench 3   script/docs 0
+      [product] engine/config-service.ts  (76)
+
+lahfir/agent-desktop   terms: jev, typesafe
+  source files      1062      mentioning         4     0.4%
+  lines of code   132773      in those         903     0.7%
+  where          product 0   test 0   bench 0   script/docs 4
+  NOTE: never appears in product code -- only tests, benchmarks or scripts.

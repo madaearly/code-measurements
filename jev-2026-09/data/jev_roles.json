@@ -1,0 +1,442 @@
+{
+ "AkashPriyadarshii_jev-curate": {
+  "tests/mock_test.rs": [
+   "test",
+   14
+  ],
+  "examples/bench_mock.rs": [
+   "script",
+   10
+  ],
+  "src/rate_limiter.rs": [
+   "product",
+   1
+  ],
+  "src/presets.rs": [
+   "product",
+   9
+  ],
+  "src/client.rs": [
+   "product",
+   28
+  ],
+  "src/lib.rs": [
+   "product",
+   6
+  ],
+  "src/main.rs": [
+   "product",
+   19
+  ],
+  "src/filter.rs": [
+   "product",
+   7
+  ]
+ },
+ "RomanSlack_jev-drone": {
+  "tactics.py": [
+   "product",
+   10
+  ],
+  "run.py": [
+   "product",
+   24
+  ],
+  "tunnel.py": [
+   "product",
+   13
+  ],
+  "replay.py": [
+   "product",
+   1
+  ],
+  "tunnel_tactics.py": [
+   "product",
+   9
+  ],
+  "hud.py": [
+   "product",
+   8
+  ],
+  "site/lib.ts": [
+   "product",
+   5
+  ],
+  "site/app/layout.tsx": [
+   "product",
+   12
+  ],
+  "site/app/page.tsx": [
+   "product",
+   42
+  ],
+  "site/components/figures.tsx": [
+   "product",
+   30
+  ]
+ },
+ "emrickgarrett_OneVOneJev": {
+  "server/src/room.ts": [
+   "product",
+   53
+  ],
+  "server/src/fighter.ts": [
+   "product",
+   3
+  ],
+  "server/src/index.ts": [
+   "product",
+   5
+  ],
+  "server/src/jev.ts": [
+   "product",
+   36
+  ],
+  "shared/src/constants.ts": [
+   "product",
+   1
+  ],
+  "shared/src/protocol.ts": [
+   "product",
+   2
+  ],
+  "client/vite.config.ts": [
+   "product",
+   1
+  ],
+  "client/src/main.ts": [
+   "product",
+   3
+  ],
+  "client/src/audio.ts": [
+   "product",
+   2
+  ],
+  "client/src/hud.ts": [
+   "product",
+   8
+  ],
+  "client/src/killcam.ts": [
+   "product",
+   1
+  ],
+  "client/src/net.ts": [
+   "product",
+   1
+  ],
+  "client/src/predict.ts": [
+   "product",
+   1
+  ],
+  "client/src/radar.ts": [
+   "product",
+   2
+  ],
+  "client/src/models.ts": [
+   "product",
+   13
+  ],
+  "client/src/world.ts": [
+   "product",
+   5
+  ]
+ },
+ "fhshaik_typesafe-mario": {
+  "tests/test_dashboard.py": [
+   "test",
+   2
+  ],
+  "tests/test_state.py": [
+   "test",
+   1
+  ],
+  "src/typesafe_mario/runner.py": [
+   "product",
+   2
+  ],
+  "src/typesafe_mario/policy.py": [
+   "product",
+   7
+  ],
+  "src/typesafe_mario/__init__.py": [
+   "product",
+   1
+  ],
+  "src/typesafe_mario/dashboard.py": [
+   "product",
+   5
+  ],
+  "src/typesafe_mario/cli.py": [
+   "product",
+   6
+  ]
+ },
+ "irfndi_prism-liquidity-agent": {
+  "bench/config-service.test.ts": [
+   "bench",
+   11
+  ],
+  "bench/jev-service.test.ts": [
+   "bench",
+   40
+  ],
+  "bench/jev-gate.test.ts": [
+   "bench",
+   21
+  ],
+  "engine/config-service.ts": [
+   "product",
+   76
+  ],
+  "engine/program.ts": [
+   "product",
+   72
+  ],
+  "engine/jev-service.ts": [
+   "product",
+   71
+  ],
+  "engine/jev-gate.ts": [
+   "product",
+   22
+  ]
+ },
+ "jarrodwatts_jev-trader": {
+  "web/src/app/layout.tsx": [
+   "product",
+   1
+  ],
+  "web/src/app/page.tsx": [
+   "product",
+   1
+  ],
+  "web/src/components/Header/Header.tsx": [
+   "product",
+   7
+  ],
+  "web/src/lib/types.ts": [
+   "product",
+   1
+  ],
+  "src/model.ts": [
+   "product",
+   9
+  ],
+  "src/trader.ts": [
+   "product",
+   6
+  ],
+  "src/index.ts": [
+   "product",
+   1
+  ],
+  "src/config.ts": [
+   "product",
+   5
+  ]
+ },
+ "jexp_neo4jev": {
+  "app/streamlit_app.py": [
+   "product",
+   30
+  ],
+  "tests/unit/test_display_properties.py": [
+   "test",
+   10
+  ],
+  "tests/unit/test_viz.py": [
+   "test",
+   3
+  ],
+  "tests/unit/test_navigator_scoring.py": [
+   "test",
+   10
+  ],
+  "tests/unit/test_config.py": [
+   "test",
+   16
+  ],
+  "tests/unit/test_neo4j_access_mapping.py": [
+   "test",
+   10
+  ],
+  "tests/unit/test_types.py": [
+   "test",
+   4
+  ],
+  "tests/integration/test_neo4j_companies_kg.py": [
+   "test",
+   3
+  ],
+  "tests/integration/test_navigator_live.py": [
+   "test",
+   23
+  ],
+  "notebooks/03_full_traversal.ipynb": [
+   "product",
+   88
+  ],
+  "notebooks/01_explore_graph.ipynb": [
+   "product",
+   3
+  ],
+  "notebooks/02_navigator_dry_run.ipynb": [
+   "product",
+   38
+  ],
+  "src/neo4jev/config.py": [
+   "product",
+   6
+  ],
+  "src/neo4jev/neo4j_access.py": [
+   "product",
+   18
+  ],
+  "src/neo4jev/navigator.py": [
+   "product",
+   8
+  ],
+  "src/neo4jev/viz.py": [
+   "product",
+   3
+  ]
+ },
+ "lahfir_agent-desktop": {
+  "scripts/jev/run.mjs": [
+   "script",
+   7
+  ],
+  "scripts/jev/policy.mjs": [
+   "script",
+   5
+  ],
+  "scripts/jev/desktop.mjs": [
+   "script",
+   3
+  ],
+  "scripts/jev/act.mjs": [
+   "script",
+   9
+  ]
+ },
+ "monteduro_killmyidea": {
+  "api/evaluate.ts": [
+   "product",
+   15
+  ],
+  "api/evaluate.test.ts": [
+   "test",
+   4
+  ],
+  "api/_analytics-db.test.ts": [
+   "test",
+   8
+  ],
+  "api/_mock.ts": [
+   "product",
+   4
+  ],
+  "src/App.tsx": [
+   "product",
+   1
+  ],
+  "src/components/ShareCard.tsx": [
+   "product",
+   3
+  ],
+  "src/components/IdeaForm.tsx": [
+   "product",
+   1
+  ],
+  "src/components/Result.tsx": [
+   "product",
+   3
+  ],
+  "src/components/Judging.tsx": [
+   "product",
+   1
+  ],
+  "src/components/Footer.tsx": [
+   "product",
+   3
+  ],
+  "src/components/DebugPanel.tsx": [
+   "product",
+   3
+  ],
+  "src/components/Header.tsx": [
+   "product",
+   1
+  ],
+  "src/lib/evaluate.ts": [
+   "product",
+   3
+  ],
+  "src/lib/share.ts": [
+   "product",
+   2
+  ],
+  "src/lib/evaluate.test.ts": [
+   "test",
+   2
+  ],
+  "src/lib/typesafe.ts": [
+   "product",
+   12
+  ],
+  "src/lib/types.ts": [
+   "product",
+   2
+  ],
+  "src/lib/copy.ts": [
+   "product",
+   1
+  ],
+  "src/lib/questions.ts": [
+   "product",
+   6
+  ],
+  "src/lib/scoring.ts": [
+   "product",
+   1
+  ],
+  "src/lib/verdict.test.ts": [
+   "test",
+   10
+  ]
+ },
+ "qkal_Canny": {
+  "test/setup.ts": [
+   "test",
+   1
+  ],
+  "test/hook.test.ts": [
+   "test",
+   3
+  ],
+  "test/jev.test.ts": [
+   "test",
+   13
+  ],
+  "src/cli.ts": [
+   "product",
+   15
+  ],
+  "src/ledger.ts": [
+   "product",
+   5
+  ],
+  "src/hook.ts": [
+   "product",
+   3
+  ],
+  "src/config.ts": [
+   "product",
+   2
+  ],
+  "src/jev.ts": [
+   "product",
+   16
+  ]
+ }
+}

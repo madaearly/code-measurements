@@ -1,0 +1,52 @@
+{
+ "lahfir/agent-desktop": {
+  "commits": 248,
+  "first": "2026-02-19 18:44",
+  "last": "2026-09-17 05:32"
+ },
+ "fhshaik/typesafe-mario": {
+  "commits": 1,
+  "first": "2026-09-16 04:59",
+  "last": "2026-09-16 04:59"
+ },
+ "RomanSlack/jev-drone": {
+  "commits": 12,
+  "first": "2026-09-16 20:54",
+  "last": "2026-09-22 17:10"
+ },
+ "emrickgarrett/OneVOneJev": {
+  "commits": 16,
+  "first": "2026-09-17 01:36",
+  "last": "2026-09-18 03:43"
+ },
+ "jarrodwatts/jev-trader": {
+  "commits": 12,
+  "first": "2026-09-16 21:19",
+  "last": "2026-09-17 02:48"
+ },
+ "irfndi/prism-liquidity-agent": {
+  "commits": 409,
+  "first": "2026-06-01 15:02",
+  "last": "2026-09-17 05:13"
+ },
+ "jexp/neo4jev": {
+  "commits": 39,
+  "first": "2026-09-16 00:07",
+  "last": "2026-09-18 09:25"
+ },
+ "AkashPriyadarshii/jev-curate": {
+  "commits": 38,
+  "first": "2026-09-18 06:13",
+  "last": "2026-09-22 11:43"
+ },
+ "qkal/Canny": {
+  "commits": 15,
+  "first": "2026-09-17 22:56",
+  "last": "2026-09-21 17:21"
+ },
+ "monteduro/killmyidea": {
+  "commits": 9,
+  "first": "2026-09-17 11:08",
+  "last": "2026-09-18 10:56"
+ }
+}

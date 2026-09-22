@@ -1,0 +1,82 @@
+{
+ "lahfir/agent-desktop": {
+  "total_deps": 56,
+  "jev_deps": []
+ },
+ "fhshaik/typesafe-mario": {
+  "total_deps": 1,
+  "jev_deps": [
+   [
+    "pyproject.toml",
+    "pypi",
+    "typesafe-sdk",
+    "typesafe-sdk"
+   ]
+  ]
+ },
+ "RomanSlack/jev-drone": {
+  "total_deps": 14,
+  "jev_deps": [
+   [
+    "requirements.txt",
+    "pypi",
+    "typesafe-sdk",
+    "typesafe-sdk>=0.7"
+   ]
+  ]
+ },
+ "emrickgarrett/OneVOneJev": {
+  "total_deps": 16,
+  "jev_deps": [
+   [
+    "client/package.json",
+    "npm",
+    "@onevonejev/shared",
+    "*"
+   ],
+   [
+    "server/package.json",
+    "npm",
+    "@onevonejev/shared",
+    "*"
+   ],
+   [
+    "server/package.json",
+    "npm",
+    "@typesafe-ai/sdk",
+    "^0.6.0"
+   ]
+  ]
+ },
+ "jarrodwatts/jev-trader": {
+  "total_deps": 13,
+  "jev_deps": [
+   [
+    "package.json",
+    "npm",
+    "@ai-sdk/typesafe-ai",
+    "^3.0.0"
+   ]
+  ]
+ },
+ "irfndi/prism-liquidity-agent": {
+  "total_deps": 51,
+  "jev_deps": []
+ },
+ "jexp/neo4jev": {
+  "total_deps": 1,
+  "jev_deps": []
+ },
+ "AkashPriyadarshii/jev-curate": {
+  "total_deps": 13,
+  "jev_deps": []
+ },
+ "qkal/Canny": {
+  "total_deps": 6,
+  "jev_deps": []
+ },
+ "monteduro/killmyidea": {
+  "total_deps": 14,
+  "jev_deps": []
+ }
+}
